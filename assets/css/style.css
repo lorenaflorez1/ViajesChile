@@ -1,0 +1,119 @@
+body {
+
+    font-family: 'Roboto', sans-serif;
+    /*Utilizar la google fonts Roboto*/
+    background-color: black !important;
+    /*Para cambiar color fondo al body*/
+}
+
+#navbar-example2 {
+    background: url(../img/carousel1.jpg) !important;/*Imagen de fondo del carousel en el navbar*/
+    position: fixed;
+    width:100%;
+    z-index:1000;
+    }
+
+#logoavion {
+    color: white !important; /*Darle color al logo de Viajes Chile*/
+    margin-left: 5px;
+}
+
+.nav-link {
+    color: white !important;
+    /*Darle color a los links del navbar*/
+}
+
+#scrollspyHeading4 {
+    color: white !important;
+    /*Darle color a la letra de la seccion de contactos*/
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+#contacto {
+    text-align: center !important;
+    /*Centrar el titulo de seccion de contactos*/
+    color: white;
+}
+
+.card-header {
+    color: white;
+    /* Color blanco para el texto */
+    background-color: #31AAC1 !important;
+    /* Fondo azul */
+    padding: 10px;
+    /* Añadir espacio alrededor del texto */
+    text-align: center;
+    /* Centrar el texto */
+}
+
+.card-header i {
+    color: white;
+    /* Color blanco para los iconos */
+}
+
+.card border-0 {
+    background-color: #31AAC1 !important;
+    /* Fondo azul */
+}
+
+.list-group-item {
+    color: #ffff;
+    /*Color Blanco texto*/
+    background-color: black;
+    /*Para cambiar color fondo tarjetas*/
+
+}
+
+body {
+    background-color: black;
+    /*Todo el body en negro*/
+}
+
+h1 {
+    text-align: center;
+    /*Centrar titulos*/
+    color: #ffff;
+    /*Color Blanco texto*/
+    font-family: "Roboto"
+        /*Fuente Roboto a titulos google*/
+}
+
+.card-img-top {
+
+    width: 285px;
+    /*Estandarizar tamaño imagenes tarjetas*/
+    /*Ancho*/
+    height: 150px;
+    /*Alto*/
+}
+
+.card-body {
+
+    background-color: #31AAC1;
+    /*Color de fondo tarjetas de Destacados a Calipso*/
+}
+
+footer {
+    background-color: aqua !important;
+    /*Darle color de fondo al footer*/
+}
+
+#viajes {
+    color: white !important;
+    /*Darle color a los links del navbar*/
+    text-align: left !important;
+
+}
+
+.list-unstyled {
+    text-align: right;
+}
+
+.fab {
+    font-size: 30px;
+    text-align: left;
+}
+a{
+    color:white !important;
+}
